@@ -5,7 +5,7 @@ I am a novice web developer with more than 16 years of experience in system admi
 At the end of the course, I will continue to study the language or other languages. In Yandex Practicum it is very convenient!
 
 
-- • 🔭 I’m currently working on a backend project [Mesto](https://github.com/cactys/express-mesto-gha)
+  - • 🔭 I’m currently working on a backend project [Mesto](https://github.com/cactys/express-mesto-gha)
 
 <!--
 **cactys/cactys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
