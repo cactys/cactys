@@ -7,7 +7,7 @@
 
 
   - 🔭 Сейчас разбораю над [бэкенд частью](https://github.com/cactys/express-mesto-gha) проекта [Mesto](https://github.com/cactys/react-mesto-auth)  
-    • (13 спринт курса Веб-разработчик Я.Практикум)
+
 
 <!--
 **cactys/cactys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
