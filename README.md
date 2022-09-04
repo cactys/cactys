@@ -9,8 +9,8 @@
 + 💡 Хочу постигать новое и совершенствовать старое.
 + 🤝 Могу найти общий язык с разными людьми.
     - Работаю специалистом тех поддержки.
-+ 📫 e-mail: <cactys95@yandex.ru>  
-[![Telegram](telegram_logo_64.png)](https://t.me/khortys)
+
+[![Telegram](telegram_logo_64.png)](https://t.me/khortys) + 📫 e-mail: <cactys95@yandex.ru>  
 
 ![Codewars](https://www.codewars.com/users/khortys/badges/large)
 
