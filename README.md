@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a novice web developer with more than 16 years of experience in system administration. I decided to study something new, chose the direction of frontend development. Backend plans!
+- I want to become a Frontend developer in an IT company that creates convenient tools for network administration, servers and workstations. It can be a small company that appeared not so long ago, or a major player in the market. I'm not looking for a job so actively, for the first time to find with the possibility of remote work. I am ready to seize the opportunity and make every effort to develop my career in the next 2 years.
+- I want to make the field in which I have been working for more than 16 years better and more convenient for others. I have a lot of ideas that I would like to work in. The next step is to get to know employees and recruiters, as well as improve your knowledge in web development and finish Yandex Practicum on time.
+At the end of the course, I will continue to study the language or other languages. In Yandex Practicum it is very convenient!
 
 <!--
 **cactys/cactys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
