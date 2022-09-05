@@ -12,8 +12,8 @@
   - Работаю специалистом тех поддержки.
   
   **<p align="center">💾 • Две работы, которые хотелось бы выделить • 💾</p>**
-  <p align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</p>
-  <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> ссылка на репозиторий </a> ⚓</p>
+      <p align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</p>
+      <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> ссылка на репозиторий </a> ⚓</p>
   
 
 ### ☎️ ***• Контакты •***
