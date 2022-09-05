@@ -11,7 +11,11 @@
 + 🤝 Могу найти общий язык с разными людьми.
   - Работаю специалистом тех поддержки.
   
-  **<p align="center">💾 • Две работы, которые хотелось бы выделить • 💾</p>**
+  **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
+___
+  <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</p>
+  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> ссылка на репозиторий </a> ⚓</p>
+  
 ___
   <p align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</p>
   <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> ссылка на репозиторий </a> ⚓</p>
