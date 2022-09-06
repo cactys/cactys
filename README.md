@@ -11,23 +11,25 @@
 + 🤝 Могу найти общий язык с разными людьми.
   - Работаю специалистом тех поддержки.
   
-  **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
 
-___
-  <h3 align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
+  <h4> ☎️ • Контакты • ☎️ </h4>
+  <p><a href="https://t.me/khortys" target="_blank" rel="noreferrer"><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> <a href="mailto:cactys95@yandex.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></a></p>
+
+  **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
   
 ___
-  <h3 align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> **Путешествия по России** </a> 👈</h3>
+  <h3 align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</h3> 
+  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p> 
+  
+___
+  <h3 align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
 ___
-  <h3 align="center">👉 <a href="https://cactys.github.io/react-mesto-auth/" target="_blank"> **Проект MESTO** </a> 👈</h3>
+  <h3 align="center">👉 <a href="https://cactys.github.io/react-mesto-auth/" target="_blank"> Проект MESTO </a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-auth/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
 ___
-  <p align="center"> ☎️ • Контакты • ☎️ </p>
-<p align="center"><a href="https://t.me/khortys" target="_blank" rel="noreferrer"><kbd><img src="./telegram.svg" alt="telegram" width="40" height="40" /></kbd></a> • <a href="mailto:cactys95@yandex.ru" target="_blank" rel="noreferrer"><kbd><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></kbd></a></p>  
 
 ### 🔧 ***• Codewars •***
 ![Codewars](https://www.codewars.com/users/khortys/badges/large)
