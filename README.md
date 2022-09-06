@@ -27,7 +27,7 @@ ___
   
 ___
   <p align="center"> ☎️ • Контакты • ☎️ </p>
-<p align="center"><a href="https://t.me/khortys" target="_blank" rel="noreferrer"><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> • <a href="mailto:cactys95@yandex.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></a></p>  
+<p align="center"><a href="https://t.me/khortys" target="_blank" rel="noreferrer"><kbd><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> • <a href="mailto:cactys95@yandex.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></kbd></a></p>  
 
 ### 🔧 ***• Codewars •***
 ![Codewars](https://www.codewars.com/users/khortys/badges/large)
