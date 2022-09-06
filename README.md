@@ -13,8 +13,8 @@
   
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
 
-<kbd> <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</p>
-  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> ссылка на репозиторий </a> ⚓</p> </kbd>
+<kbd> <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</p> </kbd>
+  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> ссылка на репозиторий </a> ⚓</p>
   
 ___
   <p align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</p>
