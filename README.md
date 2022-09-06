@@ -14,15 +14,15 @@
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
 
 ___
-  <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> <kbd>**Научиться учиться**</kbd> </a> 👈</p>
+  <h3 align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
 ___
-  <p align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> <kbd>Путешествия по России</kbd> </a> 👈</p>
+  <h3 align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> **Путешествия по России** </a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
 ___
-  <p align="center">👉 <a href="https://cactys.github.io/react-mesto-auth/" target="_blank"> <kbd>Проект MESTO</kbd> </a> 👈</p>
+  <h3 align="center">👉 <a href="https://cactys.github.io/react-mesto-auth/" target="_blank"> **Проект MESTO** </a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-auth/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
 ___
