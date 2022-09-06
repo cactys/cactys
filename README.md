@@ -13,7 +13,7 @@
   
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
 ___
-<kbd>  <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</p>
+<kbd> <p align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</p>
   <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> ссылка на репозиторий </a> ⚓</p> </kbd>
   
 ___
