@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://vk.com/c4ctys" target="_blank">Владимир</a> 👋
 
-<h3 align="center">Я junior Frontend-разработчик со стажем системного администрирования более 16 лет. Решил изучать что-то новое, выбрал направление frontend разработки.</h3>
+<h3 align="center">Я Frontend-разработчик со стажем системного администрирования более 16 лет. Решил изучать что-то новое, выбрал направление frontend разработки.</h3>
 
 + 👨‍💻 Хочу стать Frontend-разработчиком в IT компании, которая создает удобный инструментарий для администрирования сетей, серверов и рабочих станций.
   - Это может быть небольшая компания, которая появилась не так давно, или крупный игрок на рынке. Я ищу работу не так активно, на первое время найти с возможностью удаленной работы. Готов зацепиться за возможность и приложить все усилия для развития карьеры в ближайшие 2 года.
@@ -20,16 +20,14 @@
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
   
 ___
-  <h3 align="center">👉 <a href="https://cactys.github.io/how-to-learn/" target="_blank"> Научиться учиться </a> 👈</h3> 
-  <p align="center">⚓ <a href="https://github.com/cactys/how-to-learn/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p> 
+  <h3 align="center">👉 <a href="https://cactys.nomoredomains.icu/" target="_blank">Проект "MESTO"</a> 👈</h3>
+  <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-api-full/" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
   
 ___
-  <h3 align="center">👉 <a href="https://cactys.github.io/russian-travel/" target="_blank"> Путешествия по России </a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/russian-travel/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
   
-___
-  <h3 align="center">👉 <a href="https://cactys.github.io/react-mesto-auth/" target="_blank"> Проект MESTO </a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-auth/" target="_blank"> <kbd>ссылка на репозиторий</kbd> </a> ⚓</p>
+  <h3 align="center">👉 <a href="https://khnychkov.nomoredomains.icu/" target="_blank">Дипломная работа "Movies Explorer"</a> 👈</h3>
+  <p align="center">⚓ <a href="https://github.com/cactys/movies-explorer-api/" target="_blank"><kbd>back-end</kbd></a> ⚓</p>
+  <p align="center">⚓ <a href="https://github.com/cactys/movies-explorer-frontend/" target="_blank"><kbd>front-end</kbd></a> ⚓</p>
   
 ___
 
