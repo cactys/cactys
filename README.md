@@ -34,5 +34,10 @@ ___
 ### 🔨 ***• Мой стек •***
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) • ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) • ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) • ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) • ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) • ![MongoDB](https://img.shields.io/badge/-MongoDB-%231abd48?style=for-the-badge&logo=mongodb&logoColor=white) • ![Webpack](https://img.shields.io/badge/-Webpack-%2323c1fa?style=for-the-badge&logo=webpack&logoColor=white) • ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) • ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) • ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) • ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) • ![Express](https://img.shields.io/badge/-Express-%238f8d10?style=for-the-badge&logo=express&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cactys&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cactys)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cactys&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cactys)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/cactys/count.svg" />
+</p>
