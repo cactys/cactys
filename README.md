@@ -27,8 +27,8 @@ ___
   <p align="center">⚓ <a href="https://github.com/cactys/movies-explorer-frontend/" target="_blank"><kbd>front-end</kbd></a> ⚓</p>
   
 ___
-  <h3 align="center">👉 <a href="https://cactys.nomoredomains.icu/" target="_blank">Проект "Stellar Burger"</a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-api-full/" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
+  <h3 align="center">👉 <a href="https://khnychkov.nomoredomains.rocks/" target="_blank">Проект "Stellar Burger"</a> 👈</h3>
+  <p align="center">⚓ <a href="https://github.com/cactys/react-burger" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
   
 ___
 
