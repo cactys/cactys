@@ -41,6 +41,8 @@ ___
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cactys&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cactys)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cactys&layout=compact)
   
 <p align="center">
   <img src="https://profile-counter.glitch.me/cactys/count.svg" />
