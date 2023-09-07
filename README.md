@@ -18,7 +18,7 @@
 
   <h4> ☎️ • Контакты • ☎️ </h4>
   
-  | <p><a href="https://t.me/khortys" target="_blank" rel="noreferrer"><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> | <a href="mailto:cactys95@yandex.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></a></p> |
+  | <p><a href="https://t.me/khnychkov_v" target="_blank" rel="noreferrer"><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> | <a href="mailto:vova@khortys.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></a></p> |
   |---|---|
 
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
