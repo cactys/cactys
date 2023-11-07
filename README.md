@@ -25,6 +25,8 @@
 ___
   <h3 align="center">👉 <a href="https://mesto.khortys.space/" target="_blank">Проект "MESTO"</a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-api-full/" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
+  <p align="center">С чего начиналось обучение. </p>
+  <p align="center">Первый проект на ванильном JS ⚓ <a href="https://github.com/cactys/mesto" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
   
 ___
   
