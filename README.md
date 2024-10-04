@@ -22,22 +22,22 @@
   |---|---|
 
   **<p align="center">💾 • Работы, которые хотелось бы выделить • 💾</p>**
-  
+   
 ___
-  <h3 align="center">👉 <a href="https://mesto.khortys.space/" target="_blank">Проект "MESTO"</a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-api-full/" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
-  <p align="center">С чего начиналось обучение. </p>
-  <p align="center">Первый проект на ванильном JS ⚓ <a href="https://github.com/cactys/mesto" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
-  
+  <h3 align="center">👉 <a href="https://stellar.khortys.space/" target="_blank">Проект "Stellar Burger"</a> 👈</h3>
+  <p align="center">⚓ <a href="https://github.com/cactys/react-burger" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
+   
 ___
   
   <h3 align="center">👉 <a href="https://movies.khortys.space/" target="_blank">Дипломная работа "Movies Explorer"</a> 👈</h3>
   <p align="center">⚓ <a href="https://github.com/cactys/movies-explorer-api/" target="_blank"><kbd>back-end</kbd></a> ⚓</p>
   <p align="center">⚓ <a href="https://github.com/cactys/movies-explorer-frontend/" target="_blank"><kbd>front-end</kbd></a> ⚓</p>
-  
+
 ___
-  <h3 align="center">👉 <a href="https://stellar.khortys.space/" target="_blank">Проект "Stellar Burger"</a> 👈</h3>
-  <p align="center">⚓ <a href="https://github.com/cactys/react-burger" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
+  <h3 align="center">👉 <a href="https://mesto.khortys.space/" target="_blank">Проект "MESTO"</a> 👈</h3>
+  <p align="center">⚓ <a href="https://github.com/cactys/react-mesto-api-full/" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
+  <p align="center">С чего начиналось обучение. </p>
+  <p align="center">Первый проект на ванильном JS ⚓ <a href="https://github.com/cactys/mesto" target="_blank"><kbd>Repository</kbd></a> ⚓</p>
   
 ___
 
