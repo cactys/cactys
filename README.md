@@ -14,8 +14,7 @@
   | <p><a href="https://t.me/khnychkov_v" target="_blank" rel="noreferrer"><img src="./telegram.svg" alt="telegram" width="40" height="40" /></a> | <a href="mailto:vova@khortys.ru" target="_blank" rel="noreferrer"><img src="./envelope.svg" alt="e-mail" width="40" height="40" /></a></p> |
   |---|---|
 
-  <h2 align="center">💼 • Избранные проекты • 💼</h2>
-   
+  <h3 align="center">💼 • Избранные проекты • 💼</h2>
 ___
 
   <h3 align="center">📝 Проект "Taskana" - стажировка в <a href="https://preax.ru" target="_blank">Preax</a> </h3>
